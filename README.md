@@ -1,0 +1,2 @@
+# git-conflictos
+conflictos
